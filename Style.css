@@ -11,7 +11,7 @@ body
     height: 70vh;
     background-color: #f8f7f7;
     background-blend-mode: darken;
-    background-image: url("img/1º\ mel.jpg");
+    background-image: url("1º\ mel.jpg");
     display: flex;
     background-repeat: no-repeat;
     background-size: cover;
